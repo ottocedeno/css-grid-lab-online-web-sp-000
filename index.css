@@ -16,6 +16,7 @@ body {
 .grid-item {
   background-color: grey;
   border: 1px solid black;
+  margin: 10px;
 }
 
 /* add the .bigItem class */
